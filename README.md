@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mojisilva
 - 👀 I’m interested in learning about programming languages 
-- 🌱 I'm currently learning java full stack and web development to javascript
+- 🌱 I'm currently learning java and web development to javascript
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mojisilva&layout=compact&theme=dracula)
 
