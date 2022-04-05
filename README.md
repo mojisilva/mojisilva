@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mojisilva
+- 👋 Hi, I’m @mojisilva Eliene Silva
 - 👀 I’m interested in learning about programming languages 
 - 🌱 I'm currently learning java and web development to javascript
 
